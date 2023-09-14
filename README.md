@@ -1,6 +1,10 @@
 # Python-timemodule
 a Python script to simplify the time module for use much more casual than timing and efficiency.
 
+# What I Learned
+- How libraries in python work
+- How to create your own python library
+
 # how to use?
 
 1. Put the module in your python libs folder or in your current working directory
